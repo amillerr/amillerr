@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 
 <h2>Languages and tools</h2>
- В работе следующий стек технологий:  
+ Я использую следующий стек технологий:  
 <br>
 
 ![HTML5](https://img.shields.io/badge/-HTML-141130?style=flat-square&logo=HTML5&logoColor=FF0000)
