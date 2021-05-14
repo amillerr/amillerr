@@ -1,12 +1,11 @@
 ### Hi there 👋 My name is Tom.
 ## Front-end developer since 2020 :)
-😊 I'm responsible, motivated, easy-to-learn Frontend Developer open to work now.
-😍 I like programming because it's interesting for me to create something, to make user interface live and friendly.
-🌱 I am currently looking for a job as a Front-end developer.
-👯 I will be glad to share my experience and learn from other developers.
+
+* 😊 I'm responsible, motivated, easy-to-learn Frontend Developer open to work now.
+* 😍 I like programming because it's interesting for me to create something, to make user interface live and friendly.
+* 🌱 I am currently looking for a job as a Front-end developer.
+* 👯 I will be glad to share my experience and learn from other developers.
  
-
-
 <h2>Languages and tools</h2>  
 <br>
 
