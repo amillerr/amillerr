@@ -1,5 +1,5 @@
-### Hi there 👋 My name is Tom.
-## Front-end developer since 2020 :)
+### Hi there 👋 My name is Artem.
+## Front-end developer 
 
 * 😊 I'm responsible, motivated, easy-to-learn Frontend Developer open to work now.
 * 😍 I like programming because it's interesting for me to create something, to make user interface live and friendly.
