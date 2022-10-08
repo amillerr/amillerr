@@ -1,9 +1,8 @@
 
-<h1 align="center">Обо мне</h1> 
+<h1 align="center">About me</h1> 
 Hello everyone!👋  <br/>
 My name is Artem<br/>
 
-🌱 Now i'm looking for a job as a frontend developer<br/>
 
 
 <h3>Some my projects</h3>
