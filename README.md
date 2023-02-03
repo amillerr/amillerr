@@ -5,7 +5,7 @@ My name is Artem<br/>
 
 
 
-<h3>Some my projects</h3>
+<!-- <h3>Some my projects</h3>
 
 |     Project    | Name | Description | Stack  |
 | :-------------: | :-------------:    | ----------  | -----------------  |
@@ -27,7 +27,7 @@ My name is Artem<br/>
 ![React](https://img.shields.io/badge/-React-141130?style=flat-square&logo=React)
 
 
-
+ -->
 <h3>Social networks and messengers</h3>
 
 [![VK](https://img.shields.io/badge/-VK-141130?style=flat-square&logo=Vk)](https://vk.com/artemmillerr)
