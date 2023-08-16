@@ -37,6 +37,3 @@ My name is Artem<br/>
 
 <HR>  
 
-<h4>GH Profile info</h4>  
-
-[![amillerr's github stats](https://github-readme-stats.vercel.app/api?username=amillerr&&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
