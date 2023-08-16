@@ -32,7 +32,7 @@ My name is Artem<br/>
 
 [![VK](https://img.shields.io/badge/-VK-141130?style=flat-square&logo=Vk)](https://vk.com/artemmillerr)
 [![Telegram](https://img.shields.io/badge/-Telegram-141130?style=flat-square&logo=Telegram)](https://t.me/artemmillerr)
-[![Linkedin](https://img.shields.io/badge/-Linkedin-141130?style=flat-square&logo=Linkedin)](https://www.linkedin.com/in/artemmillerr/)
+
 
 
 <HR>  
